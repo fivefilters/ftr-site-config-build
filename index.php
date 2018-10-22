@@ -96,7 +96,7 @@
 
     <div class="jumbotron">
       <h1>Site config builder</h1>
-      <p class="lead">This is an experimental tool (work in progress) to help build site-specific <a href="http://help.fivefilters.org/customer/portal/articles/223153-site-patterns">extraction rules</a> for <a href="http://fivefilters.org/content-only/">Full-Text RSS</a>.</p>
+      <p class="lead">This is an experimental tool (work in progress) to help build site-specific <a href="https://help.fivefilters.org/full-text-rss/site-patterns.html">extraction rules</a> for <a href="http://fivefilters.org/content-only/">Full-Text RSS</a>.</p>
       <form method="GET" class="form-inline" action="grab.php">
         <div class="input-group">
           <input type="url" required class="form-control" name="url" placeholder="http://..." /> 
